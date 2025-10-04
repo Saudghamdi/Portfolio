@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/saudk/static/css/main.88b35b09.css",
+    "main.js": "/saudk/static/js/main.c7300819.js",
+    "static/media/saud.pdf": "/saudk/static/media/saud.6dee1e72e328832ed708.pdf",
+    "index.html": "/saudk/index.html",
+    "main.88b35b09.css.map": "/saudk/static/css/main.88b35b09.css.map",
+    "main.c7300819.js.map": "/saudk/static/js/main.c7300819.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88b35b09.css",
+    "static/js/main.c7300819.js"
+  ]
+}
